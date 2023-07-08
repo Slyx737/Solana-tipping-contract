@@ -5,7 +5,7 @@ This repository contains a Solana smart contract for a tipping system. The contr
 ## Features
 
 - **Deposit Funds:** Any user can deposit funds into the contract.
-- **Send Tips:** Only the owner of the contract can send tips to other users.
+- **Send Tips:** Only the owner of the contract can send tips to other users
 - **Initialize Contract:** The contract must be initialized before it can be used. The owner of the contract is set during initialization.
 
 ## Getting Started
