@@ -1,6 +1,6 @@
 # Solana Tipping Contract
 
-This repository contains a Solana smart contract for a tipping system. The contract allows anyone to deposit SOL into it, and only the owner can send tips. The contract is written in Rust and uses the Solana Program Library (SPL) for interacting with the Solana blockchain.
+This repository contains a Solana Smart Contract for a tipping system. The contract allows anyone to deposit SOL into it, and only the owner can send tips. The contract is written in Rust and uses the Solana Program Library (SPL) for interacting with the Solana blockchain.
 
 ## Features
 
