@@ -12,7 +12,7 @@ This repository contains a Solana smart contract for a tipping system. The contr
 
 To build the contract, you need to have Rust and the Solana tool suite installed on your machine. Once you have these prerequisites, you can clone the repository and build the contract:
 
-Use `git clone https://github.com/yourusername/solana-tipping-contract.git` to clone the repository.
+Use `git clone https://github.com/Slyx737/solana-tipping-contract.git` to clone the repository.
 
 Navigate to the project directory with `cd solana-tipping-contract`.
 
